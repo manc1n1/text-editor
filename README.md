@@ -18,6 +18,8 @@ Progressive Web Applications (PWA) Challenge: Text Editor
 
 -   The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
+-   Cloned from https://github.com/coding-boot-camp/cautious-meme
+
 ## Table of Contents
 
 -   [Installation](#installation)
